@@ -1,0 +1,6 @@
+{
+  "name": "Semester Autopilot",
+  "description": "Turns your syllabi into a living study plan scheduled around your free time, with early crunch warnings, smart reshuffling, and grade triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
